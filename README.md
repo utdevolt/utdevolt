@@ -19,5 +19,5 @@
 
 - :computer: Programador Frontend Jr. 
 - :rocket: Práctica y aprendizaje constante
-![image](https://github.com/utdevolt/utdevolt/assets/116983048/4b8c5225-ddf9-42fc-aab4-306cc0d8b531)
+
 
